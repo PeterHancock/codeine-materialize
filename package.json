@@ -1,0 +1,10 @@
+{
+  "name": "codeine-materialize",
+  "description": "A codeine template for materialize",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Peter Hancock <peter.hancock@gmail.com> (https://peterhancock.github.io)",
+  "repository": {
+      "url": "git://github.com/PeterHancock/codeine-materialize.git"
+  }
+}
